@@ -19,7 +19,7 @@ It's the back-end for the web app created with React, for the front-end develope
 ## Languages and resources:
 
 - Languages: `Javascript`
-- Libraries: `bcryptjs` `express` `express-async-errors` `jsonwebtoken` `knex` `sqlite` `sqlite3`
+- Libraries: `bcryptjs` `express` `express-async-errors` `jsonwebtoken` `knex` `sqlite` `sqlite3` `multer`
 - Version control: `Git & Github`
 
 ## Software

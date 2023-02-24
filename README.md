@@ -18,8 +18,8 @@ It's the back-end for the web app created with React, for the front-end develope
 
 ## Languages and resources:
 
-- Languages: `Javascript` `CSS` `HTML`
-- Libraries: `React` `styled-components` `React Icons` `React Router DOM`
+- Languages: `Javascript`
+- Libraries: `bcryptjs` `express` `express-async-errors` `jsonwebtoken` `knex` `sqlite` `sqlite3`
 - Version control: `Git & Github`
 
 ## Software

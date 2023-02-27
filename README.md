@@ -38,6 +38,7 @@ It's the back-end for the web app created with React, for the front-end develope
 - Routes & request params;
 - Middlewares;
 - JWT authentication;
+- Files manipulation;
 
 </div>
 <div id="Technologies">

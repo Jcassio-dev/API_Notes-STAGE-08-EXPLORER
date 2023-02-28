@@ -27,6 +27,8 @@ It's the back-end for the web app created with React, for the front-end develope
 - [x] Register notes & tags
 - [x] Upload files
 - [x] Authentication routes
+- [x] Encrypt password
+- [x] E-mail validation
 
 </div>
 <div id="Characteristics">
